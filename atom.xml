@@ -4,7 +4,7 @@
   <title><![CDATA[Finite Tape]]></title>
   <link href="http://motasem-salem.github.io/atom.xml" rel="self"/>
   <link href="http://motasem-salem.github.io/"/>
-  <updated>2014-05-06T16:36:42-04:00</updated>
+  <updated>2014-05-06T18:22:40-04:00</updated>
   <id>http://motasem-salem.github.io/</id>
   <author>
     <name><![CDATA[Motasem Salem]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[FP!]]></title>
+    <link href="http://motasem-salem.github.io/blog/2014/05/06/fp/"/>
+    <updated>2014-05-06T17:05:23-04:00</updated>
+    <id>http://motasem-salem.github.io/blog/2014/05/06/fp</id>
+    <content type="html"><![CDATA[<h1>Hello, World!</h1>
+
+<p>Welcome to my blog.</p>
+]]></content>
+  </entry>
   
 </feed>
