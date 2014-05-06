@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Finite Tape]]></title>
   <link href="http://motasem-salem.github.io/atom.xml" rel="self"/>
   <link href="http://motasem-salem.github.io/"/>
-  <updated>2014-05-06T03:01:33-04:00</updated>
+  <updated>2014-05-06T16:36:42-04:00</updated>
   <id>http://motasem-salem.github.io/</id>
   <author>
-    <name><![CDATA[Motasem]]></name>
+    <name><![CDATA[Motasem Salem]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
