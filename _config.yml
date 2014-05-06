@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://motasem-salem.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Motasem
+title: Finite Tape
+subtitle: Abu Omar's blog
+author: Motasem Salem
 simple_search: https://www.google.com/search
-description:
+description: A collection of technical notes to self
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -63,7 +63,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: motasem-salem
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
